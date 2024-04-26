@@ -1,0 +1,14 @@
+.container {
+    padding-left: 18px;
+}
+.title {
+    font-size: 38px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 30px;
+}
